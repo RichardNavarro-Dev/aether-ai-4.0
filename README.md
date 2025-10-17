@@ -22,5 +22,6 @@ To design a system that can detect, decide, and act automatically — a next-gen
 
 ---
 
-📧 **Contact:** sovraxion@gmail.com  
+📧 **Contact:** <b>sovraxion@gmail.com</b></p>
+
 🌐 **Website:** (coming soon)  
